@@ -1,0 +1,41 @@
+Troca de oleo,Balanceamento
+Revisao dos 20 mil km,Lavagem e aspiraçao
+Remap,Troca de freios
+Lavagem,Polimento
+Troca da bomba d'agua,Lavagem,Polimento
+Troca do radiador
+Troca de pneus,Alinhamento,Balanceamento
+Troca da correia dentada,Troca da velas de igniçao
+Troca do sistema de modulo
+Pastilha de freio,Suspensao,Caixa de cambio
+Revisao dos 45 mil km,Instalaçao do farol dianteiro esquerdo,Lavagem e aspiraçao
+Troca da bateria
+Troca do carter do motor
+Revisao dos 20 mil km, Lavagem e aspiraçao
+Troca dos amortecedores,Troca da velas de igniçao
+Troca de oleo,Balanceamento,Troca de pneu,Alinhamento
+Lavagem,Polimento
+Remap,Troca da bomba d'agua
+Troca de oleo,Troca da bateria,Lavagem 
+Revisão 20 mil km,Pastilha de freio 
+Troca de pneus,Alinhamento,Balanceamento 
+Revisão pre- viagem,Troca de óleo
+Troca do fluído do freio,Revisao de pastilhas
+Troca do disco de freio 
+Revisão dos 60 mil km 
+Lavagem, polimento 
+Defeito de fábrica no painel
+Troca da bateria,Troca da correia dentada
+Troca do coxim do motor,Troca das pastilhas de freio
+Revisão 2 anos 
+Revisão 1 ano 
+Instalação aro 17
+Instalação protetor de caçamba 
+Instalação frisos 
+Instalação de motor (garantia)
+Troca das bases do motor
+Troca de disco de freio,Remap
+Revisão 20 mil km,Lavagem 
+Lavagem, polimento,Aspiração 
+Lavagem do motor,Aspiração, polimento 
+Instação do eixo traseiro,Troca das rodas
